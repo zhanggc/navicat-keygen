@@ -28,7 +28,7 @@
 
    ```
    ***************************************************
-   *       Navicat Patcher by @DoubleLabyrinth       *
+   *       Navicat Patcher by @pojie.io       *
    *                  Version: 4.0                   *
    ***************************************************
 
@@ -213,8 +213,8 @@
    接下来你会被要求输入`用户名`和`组织名`；请随便填写，但不要太长。
 
    ```
-   Your name: DoubleLabyrinth
-   Your organization: DoubleLabyrinth
+   Your name: pojie.io
+   Your organization: pojie.io
    Input request code (in Base64), input empty line to end:
    ```
  
@@ -227,8 +227,8 @@
 5. 在`手动激活`窗口你会得到一个请求码，复制它并把它粘贴到keygen里。最后别忘了连按至少两下回车结束输入。
 
    ```
-   Your name: DoubleLabyrinth
-   Your organization: DoubleLabyrinth
+   Your name: pojie.io
+   Your organization: pojie.io
 
    Input request code (in Base64), input empty line to end:
    t2U+0yfE2FfnbjyhCXa0lglZOHu9Ntc3qyGiPbR6xb1QoU63/9BVfdaCq0blwVycXPyT/Vqw5joIKdM5oCRR/afCPM7iRcyhQMAnvqwc+AOKCqayVV+SqKLvtR/AbREI12w++PQ6Ewfs4A8PgB8OJ9G0jKt6Q/iJRblqi2WWw9mwy+YHcYYh3UAfygTnyj/xl+MzRymbY0lkus+6LPtpDecVsFFhM7F32Ee1QPwISko7bAkHOtkt+joPfYDdn9PDGZ4HEmeLvH6UqZCXkzgaAfynB7cQZFEkId8FsW2NGkbpM7wB2Hi3fNFgOIjutTprixTdbpFKn4w6gGc28ve23A==
@@ -237,7 +237,7 @@
    {"K":"NAVO2ORPIN5AGQEE", "DI":"R91j6WyMhxHznAKSxxxx", "P":"WIN"}
 
    Response Info:
-   {"K":"NAVO2ORPIN5AGQEE","DI":"R91j6WyMhxHznAKSxxxx","N":"DoubleLabyrinth","O":"DoubleLabyrinth","T":1547826060}
+   {"K":"NAVO2ORPIN5AGQEE","DI":"R91j6WyMhxHznAKSxxxx","N":"pojie.io","O":"pojie.io","T":1547826060}
 
    License:
    lRF18o+ZhBphyN0U5kFLHtAAGGXuvhqOcxNuvAk4dJcGeR0ISuw74mQvAfdNjv0T
